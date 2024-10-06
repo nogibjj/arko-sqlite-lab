@@ -17,3 +17,4 @@ load()
 # Query
 print("Querying data...")
 query()
+
