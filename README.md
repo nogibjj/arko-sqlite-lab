@@ -44,5 +44,7 @@ cd arko-sqlite-lab
 .venv/bin/python main.py
 ```
 ![image](https://github.com/user-attachments/assets/107a7c06-d6ca-415a-b94a-e0b0b3b3e7c1)
+![image](https://github.com/user-attachments/assets/bbeadc3f-314c-40e0-a141-ebb3ba233a30)
+
 
 
