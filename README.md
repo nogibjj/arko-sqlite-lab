@@ -14,7 +14,8 @@ This project is to demonstrate how to perform ETL processes on a dataset and cre
 - A `mylib/transform_load.py` script to remove all unwanted columns and then load it to a sqlite database
 - A `mylib/query.py` script to perform CRUD queries on the dataset along with the option to execute custom queries.
 - A `test_main.py` script to unit test the different functionalities.
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/86b856c0-d55a-486e-8811-984f8011456e)
+
 
 
 ## Project Structure
@@ -40,5 +41,6 @@ cd arko-sqlite-lab
 ```bash
 .venv/bin/python main.py
 ```
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/107a7c06-d6ca-415a-b94a-e0b0b3b3e7c1)
+
 
