@@ -12,7 +12,7 @@ This project is to demonstrate how to perform ETL processes on a dataset and cre
 - A `main.py` script which serves as the CLI structure and logic.
 - A `mylib/extract.py` script to extract a csv file from github.
 - A `mylib/transform_load.py` script to remove all unwanted columns and then load it to a sqlite database
-- A `mylib/query.py` script to perform CRUD queries on the dataset along with the option to execute custom queries.<br>(default custom script outputs the % change in close value for the past 5 days.)
+- A `mylib/query.py` script to perform CRUD queries on the dataset along with the option to execute custom queries.<br>Default custom script outputs the % change in close value for the past 5 days.
 - A `test_main.py` script to unit test the different functionalities.
 
 ![image](https://github.com/user-attachments/assets/fc27b7c0-e55d-45d5-9cd0-b92fcad6eb6e)
